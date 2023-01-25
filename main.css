@@ -1,0 +1,16 @@
+html{
+font-size: 22px
+font-color: white;
+}
+body{ 
+background-color: #ff6347
+}
+p{
+font-family: verdana;
+}
+body {
+  background-image: url('pic.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: 100% 100%;
+}
